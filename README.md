@@ -18,3 +18,11 @@ Dataset list include the following:
 6- anti-vaccine hashtags.
 
 
+## Citation
+
+Alostad, Hana, Shoug Dawiek, and Hasan Davulcu. 2023. 
+**"Q8VaxStance: Dataset Labeling System for Stance Detection towards Vaccines in Kuwaiti Dialect"**  
+*Big Data and Cognitive Computing* **7**(3): 151.  
+[https://doi.org/10.3390/bdcc7030151](https://doi.org/10.3390/bdcc7030151)
+
+
